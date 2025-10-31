@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019032498461",
+    "project_id": "klydra-f51da",
+    "storage_bucket": "klydra-f51da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019032498461:android:5bbd252c6135d67e3db1f4",
+        "android_client_info": {
+          "package_name": "com.example.klydra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxt8FDOEnn6nRZXM04pwTXb7dJ0m-YhgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
